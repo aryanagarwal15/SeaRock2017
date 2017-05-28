@@ -70,7 +70,7 @@ body a:hover{
 } 
 .agile-logo {
     float: left;
-    width: 100%;
+    width: 50%;
 }
 .agileits-w3layouts-icons {
     float: right;
@@ -527,7 +527,7 @@ p{
 /*-- events --*/
 .events {
     background: url(../images/1.jpg) no-repeat center fixed;
-    background-size: cover; 
+    ground-size: cover; 
 	padding: 4em 0;
 } 
 .events h3.title {
@@ -631,6 +631,43 @@ p{
     background: url(../images/img6.jpg)no-repeat center;
     background-size: cover;
 }
+.wthree-almub.wthree-almub5{
+    background: url(../images/img7.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.wthree-almub6{
+    background: url(../images/img8.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.wthree-almub7{
+    background: url(../images/img9.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.wthree-almub8{
+    background: url(../images/img10.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.wthree-almub9{
+    background: url(../images/img11.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.wthree-almub10{
+    background: url(../images/img12.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.wthree-almub11{
+    background: url(../images/img13.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.wthree-almub12{
+    background: url(../images/img14.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.wthree-almub13{
+    background: url(../images/img15.jpg)no-repeat center;
+    background-size: cover;
+}
+
 .albums1-left {
 	float: left;
 	width: 50%;
@@ -2212,7 +2249,7 @@ p {
     border-width: 2px;
 }
 .agile-logo { 
-    width: 100%;
+    width: 50%;
 } 
 .wthree_single_grid h2 {
     font-size: 1.4em;
